@@ -1,0 +1,15 @@
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainer\bin\Debug\LanguageTrainer.exe.config
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainer\bin\Debug\LanguageTrainer.exe
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainer\bin\Debug\LanguageTrainer.pdb
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.csprojAssemblyReference.cache
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.frmLoginPage.resources
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.Properties.Resources.resources
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.csproj.GenerateResource.cache
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.csproj.CoreCompileInputs.cache
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.exe
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.pdb
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.frmDashboard.resources
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.frmChooseOpponent.resources
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.frmGame.resources
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.frmAddPlayer.resources
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.frmAddWord.resources

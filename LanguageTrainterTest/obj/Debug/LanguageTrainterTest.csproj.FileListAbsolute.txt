@@ -1,0 +1,17 @@
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\obj\Debug\LanguageTrainterTest.csprojAssemblyReference.cache
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\obj\Debug\LanguageTrainterTest.csproj.CoreCompileInputs.cache
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\bin\Debug\LanguageTrainterTest.dll
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\bin\Debug\LanguageTrainterTest.pdb
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\bin\Debug\LanguageTrainer.exe
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\bin\Debug\LanguageTrainer.pdb
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\bin\Debug\LanguageTrainer.exe.config
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\obj\Debug\LanguageTrainterTest.csproj.CopyComplete
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\obj\Debug\LanguageTrainterTest.dll
+E:\College\Assignment\SEM 2\DDOOCP\Files\LanguageTrainer\LanguageTrainterTest\obj\Debug\LanguageTrainterTest.pdb
